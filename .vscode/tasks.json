@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build and Run",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-std=c++17",
+        "-g",
+        "src/main.cpp",
+        "src/Parosito.cpp",
+        "src/Rendezo.cpp",
+        "src/FileIro.cpp",
+        "src/FileOlvaso.cpp",
+        "-Iinclude",
+        "-o",
+        "main.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "detail": "Fordítás MinGW64 segítségével"
+    }
+  ]
+}

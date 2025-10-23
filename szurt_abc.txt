@@ -1,0 +1,3 @@
+Anna: 85
+Erika: 90
+Zoltán: 92
