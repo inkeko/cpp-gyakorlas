@@ -1,0 +1,33 @@
+Felhasználási feltételek – ParositasProjekt
+
+Ez a szoftver szabadon felhasználható, módosítható és terjeszthető nem kereskedelmi célokra, 
+különösen oktatási és tanulási célból.
+
+A következő feltételek mellett engedélyezett a használat:
+- A forráskód szabadon tanulmányozható, módosítható és megosztható
+- A szerző neve (Csaba / inkeko) és az eredeti projekt linkje (https://github.com/inkeko/cpp-gyakorlas) minden másolatban 
+vagy módosított verzióban fel kell tüntetni
+- A szoftver nem használható fel kereskedelmi célra (pl. értékesítés, fizetős szolgáltatásba való beépítés,
+ reklámcélú terjesztés)
+
+A szoftver „ahogy van” állapotban kerül kiadásra, bármiféle garancia vagy felelősségvállalás nélkül.
+
+Készült: 2025  
+Szerző: Csaba (inkeko)
+
+---
+
+Terms of Use – ParositasProjekt
+
+This software is free to use, modify, and distribute for non-commercial purposes, especially for educational and learning use.
+
+Usage is permitted under the following conditions:
+- The source code may be studied, modified, and shared freely
+- The author's name (Csaba / inkeko) and the original project link (https://github.com/inkeko/cpp-gyakorlas) 
+must be included in all copies or modified versions
+- The software may not be used for commercial purposes (e.g. resale, integration into paid services, promotional distribution)
+
+The software is provided "as is", without any warranty or liability.
+
+Created: 2025  
+Author: Csaba (inkeko)
