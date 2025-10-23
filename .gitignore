@@ -1,0 +1,8 @@
+# VS Code beállítások kizárása
+.vscode/
+
+# Fordított bináris fájlok kizárása
+*.exe
+
+# Szövegfájlok kizárása (pl. tesztadatok, ideiglenes fájlok)
+*.txt
